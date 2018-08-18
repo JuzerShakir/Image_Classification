@@ -2,7 +2,7 @@
 # Deep Learning
 ## Project: Image Classification
 
-<p align = 'center'><img src = 'logo.png', height=412, width =462></p>
+<p align = 'center'><img src = 'logo.png', height=412, width =492></p>
 
 ----
 
@@ -89,6 +89,6 @@ My project was reviewed by a Udacity reviewer against the **<a href="https://rev
 
 #### Results
 
-<p align = 'center'><img src = 'result.png', height=412, width =442></p><br>
+<p align = 'center'><img src = 'result.png', height=412, width =472></p><br>
 
 [My Project Review by an Udacity Reviewer]()
