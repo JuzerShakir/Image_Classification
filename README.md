@@ -25,7 +25,7 @@
 ### Description
 
 #### About the project
-Classifying Images from [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) which consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
+Classifying Images from [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) which consists of 60000 32x32 color images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class. 
 
 #### What needs to be done
@@ -91,4 +91,4 @@ My project was reviewed by a Udacity reviewer against the **<a href="https://rev
 
 <p align = 'center'><img src = 'result.png', height=412, width =472></p><br>
 
-[My Project Review by an Udacity Reviewer]()
+[My Project Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/1406431)
