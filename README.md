@@ -1,6 +1,6 @@
 # My Second Project in Machine Learning Engineering Nanodegree
 # Deep Learning
-## Project: Image Classification
+## Project: Object Classification
 
 <p align = 'center'><img src = 'logo.png', height=412, width =492></p>
 
@@ -25,7 +25,7 @@
 ### Description
 
 #### About the project
-Classifying Images from [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) which consists of 60000 32x32 color images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
+Classifying 'Objects' from [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) which consists of 60000 32x32 color images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class. 
 
 #### What needs to be done
