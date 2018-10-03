@@ -45,7 +45,7 @@ This project contains 3 files and 1 folder:
 - `export/` : Folder containing HTML version file of notebook.
 - `result.png` : This image shows final results of the model.
 
-Template code is provided in the `image_classification.ipynb` notebook file. While some code has already been implemented to get me started, I will need to implement additional functionality when requested to successfully complete the project.
+Template code is provided in the `report.ipynb` notebook file. While some code has already been implemented to get me started, I will need to implement additional functionality when requested to successfully complete the project.
 
 #### Dataset file
 
@@ -77,6 +77,10 @@ ipython notebook image_classification.ipynb
 or
 ```bash
 jupyter notebook image_classification.ipynb
+```
+or if you have 'Jupyter Lab' installed
+```bash
+jupyter lab
 ```
 
 This will open the Jupyter/iPython Notebook software and project file in your browser.
