@@ -39,10 +39,11 @@ The dataset will need to be preprocessed, then train a convolutional neural netw
 
 This project contains 3 files and 1 folder:
 
-- `image_classification.ipynb`: This is the main file where I have performed my work on the project.
+- `report.ipynb`: This is the main file where I have performed my work on the project.
 - `problem_unittests.py`: Helper File.
 - `helper.py`: Helper File.
 - `export/` : Folder containing HTML version file of notebook.
+- `result.png` : This image shows final results of the model.
 
 Template code is provided in the `image_classification.ipynb` notebook file. While some code has already been implemented to get me started, I will need to implement additional functionality when requested to successfully complete the project.
 
